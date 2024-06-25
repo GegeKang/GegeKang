@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @GegeKang
-- 👀 I’m a college student in De Anza College.
-- 🌱 I’m currently majoring in Computer Science.
-- 💞️ I’m looking to research on the impact of technology on people with autism spectrum disorder.
-- 📫 Email: kanggezheng@student.deanza.edu
+- 👀 I’m a Junior student at UC Davis.
+- 🌱 I’m currently majoring in Computer Science and Engineering.
+- 💞️ I’m looking to research the impact of technology on people with autism spectrum disorder.
+- 📫 Email: gzkang@ucdavis.edu
 
 <!---
 GegeKang/GegeKang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
