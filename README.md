@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GegeKang
 - 👀 I’m a Junior student at UC Davis.
 - 🌱 I’m currently majoring in Computer Science and Engineering.
-- 💞️ I’m looking to research the impact of technology on people with autism spectrum disorder.
+- 💡 I aim to develop intelligent systems that make healthcare smarter, more efficient, and more human-centered  
 - 📫 Email: gzkang@ucdavis.edu
 
 <!---
