@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GegeKang
-- 👀 I’m a Junior student at UC Davis.
+- 👀 I’m a Senior student at UC Davis.
 - 🌱 I’m currently majoring in Computer Science and Engineering.
 - 💡 I aim to develop intelligent systems that make healthcare smarter, more efficient, and more human-centered  
 - 📫 Email: gzkang@ucdavis.edu
