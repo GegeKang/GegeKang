@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @GegeKang
-- 👀 I’m a Senior student at UC Davis.
-- 🌱 I’m currently majoring in Computer Science and Engineering.
-- 💡 I aim to develop intelligent systems that make healthcare smarter, more efficient, and more human-centered  
-- 📫 Email: gzkang@ucdavis.edu
+# Hi, I'm Gege (Gezheng Kang) 👋
+**SRE · Researcher · Builder**
 
-<!---
-GegeKang/GegeKang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I build reliable systems and intelligent models — from distributed infrastructure to LLM security to multimodal AI for healthcare.
+
+---
+
+### Now
+- 🏢 SRE @ TikTok Global E-Commerce 2026 Summer
+- 🎓 Incoming M.S. Computer Science @ UCLA (Fall 2026)
+- 📍 Bay Area / Los Angeles
+
+---
+
+### Research
+- 📄 **DistillLock** — LLM security via trusted execution environments · *NeurIPS 2025*
+- 📄 **STABLEVAL** — multi-agent evaluation framework · *ICML 2026*
+- 🔬 Multimodal AI for ASD assessment (audio, video, gaze, NLP) · UC Davis × MIND Institute
+
+---
+
+### Interests
+`distributed systems` · `LLM security` · `multi-agent AI` · `healthcare AI` · `SRE / reliability` · `pixel art games`
+
+---
+
+### Reach me
+- 📧 gzkang@cs.ucla.edu
+- 🌐 [web.cs.ucla.edu/~gzkang](https://web.cs.ucla.edu/~gzkang)
