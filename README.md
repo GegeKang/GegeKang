@@ -1,7 +1,13 @@
 # Hi, I'm Gege (Gezheng Kang) 👋
-**SRE · Researcher · Builder**
+**Researcher · Builder**
 
 I build reliable systems and intelligent models — from distributed infrastructure to LLM security to multimodal AI for healthcare.
+
+---
+
+### Education
+- 🎓 B.S. Computer Science & Engineering · **UC Davis** · GPA 3.97, Dean's Honors 2024, 2025, 2026
+- 🎓 M.S. Computer Science · **UCLA** · incoming Fall 2026
 
 ---
 
