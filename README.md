@@ -5,10 +5,9 @@ I build reliable systems and intelligent models — from distributed infrastruct
 
 ---
 
-### Education
-- 🎓 B.S. Computer Science & Engineering · **UC Davis** · GPA 3.97, Dean's Honors 2024, 2025, 2026
-- 🎓 M.S. Computer Science · **UCLA** · Fall 2026
-
+### 🎓 Education
+- **M.S. in Computer Science** · **UCLA** *(Fall 2026 – Present)*
+- **B.S. in Computer Science & Engineering** · **UC Davis** *(GPA: 3.97 · Graduated with Highest Honors)*
 ---
 
 ### Now
@@ -26,7 +25,7 @@ I build reliable systems and intelligent models — from distributed infrastruct
 ---
 
 ### Interests
-`distributed systems` · `LLM security` · `multi-agent AI` · `healthcare AI` · `SRE / reliability` · `pixel art games`
+`distributed systems` · `LLM security` · `multi-agent AI` · `healthcare AI` · `SRE / reliability`
 
 ---
 
