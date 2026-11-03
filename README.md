@@ -11,10 +11,9 @@ I build reliable systems and intelligent models — from distributed infrastruct
 ---
 
 ### Now
-- 🏢 SRE @ TikTok Global E-Commerce 2026 Summer
 - 🎓 Current M.S. Computer Science @ UCLA (Fall 2026)
 - 📍 Bay Area / Los Angeles
-
+  
 ---
 
 ### Research
@@ -32,3 +31,4 @@ I build reliable systems and intelligent models — from distributed infrastruct
 ### Reach me
 - 📧 gzkang@cs.ucla.edu
 - 🌐 [web.cs.ucla.edu/~gzkang](https://web.cs.ucla.edu/~gzkang)
+- 🌐 [linkedin](https://www.linkedin.com/in/gezhengkang)
